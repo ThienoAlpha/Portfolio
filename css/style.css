@@ -73,3 +73,13 @@
   object-fit: cover;
   flex-shrink: 0;
 }
+
+#home{
+  background-image: url(../img/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: 180%;
+  background-position-y:-250px ;
+  
+  
+}
+
